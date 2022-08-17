@@ -1,0 +1,14 @@
+{	
+	"state" : "on",
+	"message" : "-----------------------------------Constant_Voltage-----------------------------------Constant_Voltage-----------------------------------",
+	"screen" :"on",
+	"current_Sense_Frequency" : 15,
+	"continuous_Voltage" : 2,
+	"rsl" : 0.001,
+	"directory" : "WRITE YOUR CUSTOM DIRECTORY",
+	"continuous_File_Name" : "Constant_Voltage.xlsx",
+	"current_Compliance" : 100e-3,
+	"device_channel" : "3",
+	"backup_Time_in_Minutes" : 2,
+	"measurement" : "Diode's const"
+}

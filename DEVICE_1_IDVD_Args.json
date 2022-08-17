@@ -1,0 +1,19 @@
+{
+	"state" : "on",
+	"message" : "-----------------------------------DEVICE_1_IDVD-----------------------------------DEVICE_1_IDVD-----------------------------------",
+	"VG_Start": 0,
+	"VG_End": 5,
+	"VDS_Start": 0,
+	"VDS_END": 5,
+	"VG_Data_Points": 11,
+	"VDS_Data_Points": 101,
+	"device_Name": "DEVICE_1",
+	"ID_COMPLIANCE": 0.12,
+	"ID_RESOLUTION": 0.001,
+	"IG_COMPLIANCE": 0.01,
+	"IG_RESOLUTION": 0.001,
+	"directory": "WRITE YOUR CUSTOM DIRECTORY",
+	"folder_Name": "DEVICE_1_IDVD_SWEEPS",
+	"device_Channel" : "1",
+	"measurement" : "DEVICE_1_IDVD"
+}

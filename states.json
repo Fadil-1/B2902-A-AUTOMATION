@@ -1,0 +1,6 @@
+{
+"run_Diode_Continuous" : "off",
+"run_DEVICE_1_IV"      : "off",
+"run_DEVICE_2_IV"      : "off",
+"run_DEVICE_3_IV"      : "off"   
+}

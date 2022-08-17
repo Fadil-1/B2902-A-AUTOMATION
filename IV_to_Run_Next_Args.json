@@ -1,0 +1,6 @@
+{
+"DEVICE_1_IV_Frequency"      : 1890, 
+"DEVICE_2_IV_Frequency" : 2500, 
+"DEVICE_3_IV_Frequency"      : 3600,
+"freq_Margin"           : 0 
+}

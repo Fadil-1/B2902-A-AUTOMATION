@@ -1,0 +1,19 @@
+{
+	"state" : "on",
+	"message" : "-----------------------------------DEVICE_2_IDVG-----------------------------------DEVICE_2_IDVG-----------------------------------",
+	"VG_Start": -3,
+	"VG_End": 5,
+	"VDS_Start": 0.5,
+	"VDS_END": 3,
+	"VG_Data_Points": 242,
+	"VDS_Data_Points": 6,
+	"device_Name": "DEVICE_2",
+	"ID_COMPLIANCE": 12e-2,
+	"ID_RESOLUTION": 0.01,
+	"IG_COMPLIANCE": 0.01,
+	"IG_RESOLUTION": 0.01,
+	"directory": "WRITE YOUR CUSTOM DIRECTORY",
+	"folder_Name": "DEVICE_2_IDVG_SWEEPS",
+	"device_Channel" : "2",
+	"measurement" : "DEVICE_2_IDVG"
+}

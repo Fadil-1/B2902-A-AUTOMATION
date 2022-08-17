@@ -1,0 +1,17 @@
+{
+	"state" : "on",
+	"message" : "-----------------------------------DEVICE_3_IVs-----------------------------------DEVICE_3_IVs-----------------------------------",
+	"V_Start" : 0, 
+	"V_END_pt1" : -2, 
+	"V_END_pt2" : 2,  
+	"V_Data_Points" : 1001, 
+	"pt1_compliance" : 50e-3, 
+	"pt2_compliance" : 50e-3 , 
+	"rsl" : 0.01,
+	"directory" : "WRITE YOUR CUSTOM DIRECTORY",
+	"folder_Name" : "IVs_Diode", 
+	"IV_Pt1_File_Name" : "<hrs_value>hrs_fIV.xlsx", 
+	"IV_Pt2_File_Name" : "<hrs_value>hrs_rIV.xlsx",
+	"device_Channel" : "3",
+	"measurement" : "DEVICE_3_IVs"
+}
