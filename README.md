@@ -14,7 +14,7 @@ The research this setup was made for required the DUTs to be far from the the in
 
 ![2](https://user-images.githubusercontent.com/89228814/185051264-d0e14fa6-b6f3-4135-92b1-5567876989df.JPG)
 
-For pineout discription the DUTs are connecte on a breadboard and powered with with color-coded wires. 
+For pineout discription the DUTs are connected on a breadboard and powered with color-coded wires. 
 
 
 ![3](https://user-images.githubusercontent.com/89228814/185051668-db693824-718c-48b6-b995-fa2f48109c7d.JPG)
@@ -24,7 +24,7 @@ The full setup looks like the image below:
 
 The front “high” output of the sourcemeter serves as drain bias, while the rear “high” output serves as the gate bias. Red represents gate bias, yellow represents drain bias, and black represents source/ground.
 
-Match all wires from the breakout board to the breadboard from left to right. The rightmost set of wires connect a diode, the middle connects transistor_2/DEVICE_2, and the leftmost connects transistor_1/DEVICE_1. The yellow wire can be omitted (gate wire) for the diode, as it is a two-terminal device.
+Match all wires from the breakout board to the breadboard from left to right. The rightmost set of wires connects a diode, the middle connects transistor_2/DEVICE_2, and the leftmost connects transistor_1/DEVICE_1. The yellow wire can be omitted (gate wire) for the diode, as it is a two-terminal device.
 
 ![IMG_5091 (2)](https://user-images.githubusercontent.com/89228814/185053369-c442a8e1-020c-4233-91ee-6fab4ff3ea04.JPG)
 
