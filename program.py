@@ -1,7 +1,7 @@
 """
 Written by Fadil Isamotu (v1.0)
 November 16, 2021
-moisa1@morgan.edu
+isamotufadil15@gmail.com
 """
 import pyvisa
 import numpy  
