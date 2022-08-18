@@ -43,7 +43,7 @@ def time_passed(deltaT):
 
 #-----------------------------------------------------------------------------------------------------Argument Parser-----------------------------------------------------------------------------------------------------
 def arg(file):
-    with open(f"{file}.json", "r") as arguments:
+    with open(f"JSON\\{file}.json", "r") as arguments:
         return (json.load(arguments)) 
 #-----------------------------------------------------------------------------------------------------Create log file's directory----------------------------------------------------------------------------------------- 
 if not os.path.exists( log_D:= (arg("diode_IVs_Args")["directory"]) +"\log_Book"):       
