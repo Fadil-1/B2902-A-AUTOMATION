@@ -1,16 +1,11 @@
 # B2902_A + SWITCHING MATRIX AUTOMATION
 
-This program was initially implemented to do custom measurements for a research project. It is still very "Case Specific" as it works with a select type of instruments. Nontheless it'd be reltively simple to "retune" for different end-goals.
-The functions from the main script can be copied and used independently with the instruments they are meant to control or, in the case of the SMU related functions, with some slighly older or newer models of Agilent/Keysight SMUs.
+This program was initially implemented  for a research project. It processes custom measurements collected using some prescribed instruments. Its applicability is limited to a specific domain, since it works with a selective type of instruments. Nonetheless, it can be adapted to achieve different end goals.  The functions from the main script can be used independently with the instruments they are meant to control or, in the case of the SMU related functions, with some slightly older or newer models of Agilent/Keysight SMUs.
+The typical setup involves three fundamental instruments:
 
-The setup contains three fundamental instruments:
+A sourcemeter (Agilent B2902-A), a breakout board (DB25 breakout board), and a switching matrix (Keysight U2751A).
 
-A sourcemeter (Agilent B2902-A);
-A breakout board (db25 breakout board);
-A switching matrix (Keysight U2751A);
-
-The research this setup was made for required the DUTs to be far from the instruments, therefore all three instruments were connected through USB using a data cable and a USB extender(See image below). 
-
+The research this setup was conceived for required the DUTs to be far from the instruments; therefore all three instruments were connected through USB using a data cable and a USB extender(See image below).
 
 ![2](https://user-images.githubusercontent.com/89228814/185051264-d0e14fa6-b6f3-4135-92b1-5567876989df.JPG)
 
